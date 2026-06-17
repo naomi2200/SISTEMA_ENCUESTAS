@@ -1,0 +1,42 @@
+[
+  {
+    "pregunta": "P5 Recomienda",
+    "respuesta": "MALO",
+    "fecha": "2026-06-17T09:21:09.580Z"
+  },
+  {
+    "pregunta": "P1 Atencion",
+    "respuesta": "MALO",
+    "fecha": "2026-06-17T10:04:12.660Z"
+  },
+  {
+    "pregunta": "P2 Tiempo",
+    "respuesta": "REGULAR",
+    "fecha": "2026-06-17T10:04:29.233Z"
+  },
+  {
+    "pregunta": "P3 Limpieza",
+    "respuesta": "BUENO",
+    "fecha": "2026-06-17T10:04:42.007Z"
+  },
+  {
+    "pregunta": "P4 Calidad",
+    "respuesta": "MALO",
+    "fecha": "2026-06-17T10:05:03.124Z"
+  },
+  {
+    "pregunta": "P5 Recomienda",
+    "respuesta": "BUENO",
+    "fecha": "2026-06-17T10:12:03.025Z"
+  },
+  {
+    "pregunta": "P1 Atencion",
+    "respuesta": "MALO",
+    "fecha": "2026-06-17T10:44:50.035Z"
+  },
+  {
+    "pregunta": "P2 Tiempo",
+    "respuesta": "REGULAR",
+    "fecha": "2026-06-17T10:45:07.935Z"
+  }
+]
